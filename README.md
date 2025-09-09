@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanvee2304
 - 👀 I’m interested in Artificial Intelligence and Data Science
-- 🌱 I’m currently learning in Third year of Artificial Intelligence and Data Science Engineering
+- 🌱 I’m currently learning in Final year of Artificial Intelligence and Data Science Engineering
 
 
 <!---
